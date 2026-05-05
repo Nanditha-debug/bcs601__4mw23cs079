@@ -7,8 +7,9 @@ String Reverse + Arithmetic Operations App
 This project performs string reversal and basic arithmetic operations like subtraction and multiplication using Python Flask.
 
 ## Live URL:
-(Add after deployment)
+https://bcs601-4mw23cs079-40un.onrender.com
 
 ## GitHub Repo:
-(Add after pushing)
+https://github.com/Nanditha-debug/bcs601__4mw23cs079/tree/main
+
 
